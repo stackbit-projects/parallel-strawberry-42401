@@ -2,14 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_hero
-    content: |
-      # **Добро пожаловать в Музей факультета журналистики УрФУ!**
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
